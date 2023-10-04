@@ -21,9 +21,9 @@ pip install .
 
 ### From Release
 Grab the most recent .whl file from the Releases tab and install it like this:
-> For the most recent release: PwnAtlas-0.1beta
+> For the most recent release: PwnAtlas-0.1b2
 ```bash
-pip install PwnAtlas-0.1b-py3-none-any.whl
+pip install PwnAtlas-0.1b2-py3-none-any.whl
 ```
 
 ### ~~From PyPi~~
