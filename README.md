@@ -1,5 +1,5 @@
 # PwnAtlas
-PwnAtlas (https://pypi.org/project/PwnAtlas/0.1b0/) is CougarCS InfoSec's multi-API wrapper module for CVE and ExploitDB lookup. It currently features the ability to lookup CVE's by both a keyword search and by it's assigned ID. It returns a dictionary of the most important values, which can be used for many purposes, including:
+PwnAtlas is CougarCS InfoSec's multi-API wrapper module for CVE and ExploitDB lookup. It currently features the ability to lookup CVE's by both a keyword search and by it's assigned ID. It returns a dictionary of the most important values, which can be used for many purposes, including:
 - Discord Bots
 - Websites
 - Python Scripts
@@ -26,8 +26,8 @@ Grab the most recent .whl file from the Releases tab and install it like this:
 pip install PwnAtlas-0.1b-py3-none-any.whl
 ```
 
-### From PyPi
-The best way to install the package is through [PyPi](https://pypi.org/project/PwnAtlas/0.1b0/):
+### ~~From PyPi~~
+This has not been implemented yet, but this is the ultimate goal. Once the project is formally hosted on [PyPi.org](https://pypi.org), it can be installed and implemented just like any other package:
 ```bash
 pip install pwnatlas
 ```
