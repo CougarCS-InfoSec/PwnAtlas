@@ -26,8 +26,8 @@ Grab the most recent .whl file from the Releases tab and install it like this:
 pip install PwnAtlas-0.1b2-py3-none-any.whl
 ```
 
-### ~~From PyPi~~
-This has not been implemented yet, but this is the ultimate goal. Once the project is formally hosted on [PyPi.org](https://pypi.org), it can be installed and implemented just like any other package:
+### From PyPi
+Fetch the newest release of [PwnAtlas](https://pypi.org/project/PwnAtlas)
 ```bash
 pip install pwnatlas
 ```
